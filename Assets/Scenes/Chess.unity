@@ -363,6 +363,8 @@ MonoBehaviour:
     type: 3}
   textPrefabDigits: {fileID: 6365031261450391594, guid: e0d985345349f4719b45a04ff475d780,
     type: 3}
+  whitePawnSprite: {fileID: 421191062671846005, guid: 92ae7745fb974a2b8944be9930c35c8a,
+    type: 3}
 --- !u!1 &1422875207
 GameObject:
   m_ObjectHideFlags: 0
